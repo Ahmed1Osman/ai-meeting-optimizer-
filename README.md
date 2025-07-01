@@ -379,7 +379,7 @@ This project welcomes contributions in areas including:
 
 **Project Lead**: Ahmed Othman  
 **Email**: ao9200004@gmail.com 
-**LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/ahmed-othman-a38805232/)
+**LinkedIn**: [Ahmed Othman](https://linkedin.com/in/ahmed-othman-a38805232/)
 **GitHub**: [Project Repository](https://github.com/Ahmed1Osman/ai-meeting-optimizer-/tree/main)
 
 ### **Get Started**
